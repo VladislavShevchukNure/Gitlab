@@ -60,7 +60,7 @@
       "MaxLength": "41",
       "AllowedPattern" : "[a-zA-Z0-9]*",
       "ConstraintDescription" : "must contain only alphanumeric characters.",
-      "Default":"qwerty"
+      "Default":"qwerty123"
     },
 
     "DBRootPassword" : {
@@ -71,7 +71,7 @@
       "MaxLength": "41",
       "AllowedPattern" : "[a-zA-Z0-9]*",
       "ConstraintDescription" : "must contain only alphanumeric characters.",
-      "Default":"QWERTY"
+      "Default":"QWERTY123"
     }
   },
 
